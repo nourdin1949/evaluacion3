@@ -1,0 +1,4 @@
+Nombre1 12 2 false 
+Nombre2 4 566 true 
+Nombre3 35 34 true 
+Nombre4 7 8 true 

@@ -1,0 +1,4 @@
+Nombre1 22 45 false
+Nombre2 2 56 false
+Nombre3 3 44 false
+Nombre4 4 12 false
